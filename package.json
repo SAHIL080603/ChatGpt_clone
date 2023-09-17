@@ -19,6 +19,7 @@
     "express-session": "^1.17.3",
     "http-server": "^14.1.1",
     "method-override": "^3.0.0",
+    "mongodb": "^6.1.0",
     "mongoose": "^7.5.2",
     "openai": "^4.0.0",
     "passport": "^0.6.0",
